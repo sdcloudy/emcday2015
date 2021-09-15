@@ -3,10 +3,10 @@
   David Hanacek
   (aka sdcloudy)
 
-  Virtustream 
-  Advisory Solutions Architect
+  Red Hat
+  Solutions Architect
 
-  david.hanacek@virtustream.com
+  david.hanacek@redhat.com
   twitter: @SD_Cloudy
 */
 
